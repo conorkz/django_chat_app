@@ -1,1 +1,1 @@
-# django_chat_app
+# Real time chat application with Django
